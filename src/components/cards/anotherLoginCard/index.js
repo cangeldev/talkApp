@@ -1,0 +1,1 @@
+export { AnotherLoginCard } from "./anotherLoginCard"
